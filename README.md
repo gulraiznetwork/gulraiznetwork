@@ -2,7 +2,6 @@
 - 👀 I’m interested in networking and security.
 - 🌱 I did my training in CCNA.
 - 🌱 I did my training in CEH.
-- 🌱 I did my training in CCNA.
 - 💞️ I’m looking to collaborate on networking and EH
 - 📫 You can reach me through github.
 
